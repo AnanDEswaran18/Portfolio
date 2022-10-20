@@ -69,7 +69,7 @@ nav ul li a:hover:after{
     /* border: 10px solid; */
     padding: 034px;
     width: 85%;
-    height: 100vh;
+    height: 82vh;
     position: absolute;
     top: 18%;
     left: 8%;
@@ -112,8 +112,20 @@ nav ul li a:hover:after{
 }
 .foot{
     color:#ffc800;
+    padding: 20px;
 }
 .foot:hover{
+    color:white;
+    transition: all .2s ease-in-out;
+}
+.links{
+    display:flex;
+    justify-content:centre;
+}
+.linkedin{
+    color:#ffc800;
+}
+.linkedin:hover{
     color:white;
     transition: all .4s ease-in-out;
 }
