@@ -68,3 +68,12 @@ nav ul li a:after{
 nav ul li a:hover:after{
     width: 100%;
 }
+.content{
+    /* border: 10px solid; */
+    padding: 034px;
+    width: 85%;
+    height: 60vh;
+    position: absolute;
+    top: 30%;
+    left: 8%;
+}
