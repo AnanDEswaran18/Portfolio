@@ -77,3 +77,9 @@ nav ul li a:hover:after{
     top: 30%;
     left: 8%;
 }
+.content p{
+    
+    color: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
